@@ -1,0 +1,1 @@
+{\n  "compilerOptions": {\n    "baseUrl": "src",\n    "paths": {\n      "@/*": ["*"],\n      "@/components/*": ["components/*"],\n      "@/pages/*": ["pages/*"],\n      "@/lib/*": ["lib/*"],\n      "@/api/*": ["api/*"],\n      "@/context/*": ["context/*"],\n      "@/styles/*": ["styles/*"]\n    }\n  }\n}
